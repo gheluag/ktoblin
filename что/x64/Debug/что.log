@@ -1,0 +1,25 @@
+﻿  main.cpp
+C:\Users\albin\Desktop\gheluag\проекты\программист йеп\что\что\main.cpp(21,13): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\albin\Desktop\gheluag\проекты\программист йеп\что\что\main.cpp(21,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\albin\Desktop\gheluag\проекты\программист йеп\что\что\main.cpp(22,48): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\albin\Desktop\gheluag\проекты\программист йеп\что\что\main.cpp(22,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\albin\Desktop\gheluag\проекты\программист йеп\что\что\main.cpp(22,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\albin\Desktop\gheluag\проекты\программист йеп\что\что\main.cpp(22,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\albin\Desktop\gheluag\проекты\программист йеп\что\что\main.cpp(81,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  что.vcxproj -> C:\Users\albin\Desktop\gheluag\проекты\программист йеп\что\x64\Debug\что.exe
